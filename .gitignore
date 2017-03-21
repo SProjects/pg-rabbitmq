@@ -1,3 +1,4 @@
 .idea
 publish_subscribe/logs_from_rabbit.log
 routing/logs_from_rabbit.log
+topic/logs_from_rabbit.log
